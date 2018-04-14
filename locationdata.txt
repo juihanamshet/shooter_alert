@@ -1,0 +1,29 @@
+{
+   "items":[
+      {
+         "epc":"111100000000000000000019",
+         "tagId":"000000000000",
+         "jobId":"ffa29f71-f0f9-426e-9ba4-45398361dc5d",
+         "xLocation":6.3,
+         "yLocation":9.2,
+         "zLocation":0,
+         "zone":"ZONE1",
+         "facility":HOME,
+         "presenceConfidence":"HIGH",
+         "lastModifiedTime":"2016-02-23T00:38:42Z"
+      },
+      {
+         "epc":"300833B2DDD9000500010004",
+         "tagId":"000000000000",
+         "jobId":"ffa29f71-f0f9-426e-9ba4-45398361dc5d",
+         "xLocation":1.9,
+         "yLocation":2.1,
+         "zLocation":0,
+         "zone":"ZONE2",
+         "facility":"HOME",
+         "presenceConfidence":"HIGH",
+         "lastModifiedTime":"2016-02-23T00:37:57Z"
+      }
+  ],
+  "nextPageMarker": "bozBcaT89jaLIuUy+gdkWm8xz8FRimZz8++6HHecp9vNvz4PLFxwZeCWAN666lTE"
+}
